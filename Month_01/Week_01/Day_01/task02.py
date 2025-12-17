@@ -1,5 +1,0 @@
-print("Type a number")
-a=input()
-print(f"before type casting{type(a)}")
-a=float(a)
-print(f"after type casting{type(a)}")
